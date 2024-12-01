@@ -15,5 +15,4 @@ This project demonstrates the process of capturing and analyzing HTTP traffic us
 ## Screenshots:
 Below is a screenshot demonstrating the captured HTTP traffic:
 
-![HTTP Traffic Capture](file:///C:/Users/Shawn/Downloads/Screenshot%202024-12-01%20153318.png)
 
